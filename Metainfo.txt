@@ -1,5 +1,5 @@
-
-Name of Quantlet: 'CRIX.TERES_EVT'
+﻿
+Name of Quantlet: 'TERES_EVT'
 
 Published in: 'not published'
 
